@@ -21,7 +21,7 @@ a:link {color:#000000;
    border:1px solid #000000;
 }
 a:hover { background-color:rgba(196,185,151,1.00)}
-h2 { ont-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+h2 { font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 	color:#7A624E;
 	font-size: 25px;
 }
