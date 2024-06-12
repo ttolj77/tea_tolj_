@@ -3,6 +3,8 @@
 .ime { font-family: 'teatoljregular';
      color:black;
 	 font-size: 40px;
+      font-weight:normal;
+font-style:normal;
 	}
 p {
 	color:#876D41;
